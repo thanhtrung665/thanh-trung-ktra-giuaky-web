@@ -34,7 +34,7 @@ body{
 
 }
 .home-icon-link i{
-    font-size: 50px;
+    font-size: 30px;
     color: #d9534f;
 }
 
@@ -111,3 +111,4 @@ body{
     margin-bottom: 10px; /* Khoảng cách giữa các mục */
     line-height: 1.4;
 }
+
